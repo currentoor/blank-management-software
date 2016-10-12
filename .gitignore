@@ -1,0 +1,15 @@
+pom.xml
+pom.xml.asc
+*jar
+/lib/
+/classes/
+/target/
+/checkouts/
+.nrepl-port
+out/
+.nrepl-history
+.#*
+.cljs_rhino_repl/*
+.DS_Store
+*.swp
+*~
