@@ -1,6 +1,7 @@
-# Under Construction
+* Under Construction
+
 Please check back later.
 
-# Blank Management Software
+* Blank Management Software
 
 This repo is an example application built with Om.next, Untangled, and Datomic.
