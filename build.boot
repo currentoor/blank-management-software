@@ -38,7 +38,7 @@
                  [untangled-starter "0.0.1-SNAPSHOT"]
                  [navis/untangled-spec     "0.3.8" :scope "test"]
 
-                 [devcards          "0.2.1-6"]
+                 [devcards          "0.2.1-7"]
                  [sablono           "0.6.0"]
                  [camel-snake-kebab "0.3.2"]])
 

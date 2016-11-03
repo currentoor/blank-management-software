@@ -10,6 +10,8 @@
 (defroutes routes
   (GET "/" [] (-> (resource-response "index.html")
                   (content-type "text/html")))
+  (GET "/cards" [] (-> (resource-response "cards.html")
+                       (content-type "text/html")))
   (route/not-found "Not Found"))
 
 (def middleware (-> site-defaults
